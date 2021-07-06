@@ -1,0 +1,35 @@
+.box1 {
+    width: 50%;
+    border: solid black;
+    border-width: 1px;
+    background;-color:cadetblue;
+    float:inline-end;
+    margin-bottom: 10px
+  }
+  
+  .box2 {
+    width: 50%;
+    border: solid black;
+    border-width: 1px;
+    background;-color:cadetblue;
+    margin-bottom: 10px
+  
+  }
+  
+  .box3 {
+    width: 50%;
+    border: solid black;
+    border-width: 1px;
+    background;-color:cadetblue;
+    margin-bottom: 10px
+  }
+
+  .textscreen {
+    width: 100%;
+    border: solid black;
+    border-width: 1px;
+    background;-color:cadetblue;
+    
+    
+
+  }
